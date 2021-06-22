@@ -1,0 +1,19 @@
+/*
+@media (max-width: 270px){
+	.section-box {
+		flex-direction: column;
+
+	}
+}
+*/
+
+@media (max-width: 950) {
+	.block1 {
+		width: 48px;
+	}
+	.block2 {
+		width: 48px;
+		display-flex;
+		flex-wrap: wrap;
+	}
+}
